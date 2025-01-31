@@ -16,6 +16,7 @@
 #pragma once
 
 #include <cstdlib>
+#include <cstdint>
 #include <iterator>
 #include <map>
 #include <string>
